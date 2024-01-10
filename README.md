@@ -2,7 +2,7 @@
     <p>Hello! 👋 I'm Antonino, I'm 24 years old, I'm from Reggio Calabria, Italy.</p>
 
   <h2> Social </h2>
-    <a href="https://www.linkedin.com/in/antonino-alampi-002b62280" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/antonino-alampi-002b62280"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
   <h2> Languages </h2>
   <div style="flex">
